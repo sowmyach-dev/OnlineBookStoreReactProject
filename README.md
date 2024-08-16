@@ -4,6 +4,7 @@ This project is an online bookstore application built using React. The applicati
 
 # Project Structure
 
+```bash
 online-bookstore/
 │
 ├── public/
@@ -34,6 +35,7 @@ online-bookstore/
 │
 ├── package.json               # Project dependencies and scripts
 └── README.md                  # Project documentation (this file)
+```
 
 # How to Run the Application
 
