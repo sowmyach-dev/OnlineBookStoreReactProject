@@ -40,7 +40,7 @@ online-bookstore/
 Clone the project
 
 ```bash
-  git clone <repository-url>
+  git clone https://github.com/sowmyach-dev/OnlineBookStoreReactProject.git
 ```
 
 Go to the project directory
